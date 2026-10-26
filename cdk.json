@@ -1,0 +1,4 @@
+{
+  "app": "bun run tsx bin/cdk.ts",
+  "context": { "@aws-cdk/aws-lambda:useCdkManagedLogGroup": true }
+}
